@@ -35,7 +35,7 @@ export default function ButtonAppBar() {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" className={classes.title}>
-            B2C Portal S
+            B2C Portal
           </Typography>
           <Button color="inherit"></Button>
         </Toolbar>
